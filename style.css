@@ -1,0 +1,38 @@
+nav {
+  height: 50px;
+  background-color: lightgrey;
+}
+.inline-blcok{
+  display:inline-block; 
+  padding:15px}
+
+.right{
+  height:200px;
+  float: left;
+  background-color: lightskyblue;
+  width: 70p;
+  text-align: center;
+}
+
+
+.left{
+  height:500px;
+  float:left;
+  background-color:aquamarine;
+  width:20px;
+}
+.card{
+  display:inline-block;
+  background-color: azure;
+  border-radius: 5px;
+  height:200px;
+  width: 150px;
+  margin:24px;;
+  margin-top: 50px;
+}
+
+/* target the class of inline-block below */
+
+/* target the class of .left below */
+
+/* target the class of .right below */
